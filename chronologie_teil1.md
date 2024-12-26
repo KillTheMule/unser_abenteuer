@@ -80,7 +80,17 @@ begleiten wird. Sie ist aber auch überzeugt, dass Rohaja noch lebt. Emer
 übergibt euch die KGIA-Akte "GAL XXXII" (siehe extra Datei), die Dexter
 Nemrod ihr vor dem Auszug nach Wehrheim mit der Aufforderung übergeben
 hatte, sie für den Fall zu öffnen, dass etwas "völlig Unvorhergesehenes"
-passiert.
+passiert. Aus der Akte ergibt sich u.a., dass Dexter Galotta schon früh
+(also zu dessen Zeit als Hofmagier) als Verräter am Reich enttarnt hatte
+und zwei Maßnahmen gegen ihn eingeleitet hatte: 1. Eine Vergiftung
+mithilfe eines Zweikomponentengifts, das erst bei Verabreichung der
+zweiten Komponente wirksam wird und lange Zeit in Galottas Körper
+eingelagert ist. 2. Die Anfertigung eines sog. Rotkappenwillenstrunks,
+der (weitgehend) resistent gegen Galottas Beherrschungsmagie machen soll
+und nach Dexters Einschätzung noch wirksam sein sollte. (Die zweite
+Komponente des Gifts und ausreichend viele Rationen des
+Rotkappenwillentrunks für jeden von euch könnt ihr aus den Beständen der
+KGIA sichern.)
 
 Eldaria kann über eine mit euch geteilte Vision zentrale Momente des
 Endes der Schlacht von Wehrheim sehen, überwiegend durch die Augen
@@ -1370,11 +1380,12 @@ KGIA-Agenten jetzt dafür sorgen sollen, dass ihr "eure Arbeit machen
 könnt". Sperber versteht das als relativ freie Anordnung, sich in der
 folgenden Schlacht so nützlich wie möglich zu machen.
 
-Herald hat inzwischen einen sicheren Ort für Emer gefunden. Eldaria
-nimmt mit ihm Kontakt auf, geht schnell dorthin und sorgt dort für eine
-telepathische Verbindung mit denjenigen Personen, die Emer bewachen,
-damit ihr im Ernstfall so schnell wie möglich benachrichtigt werden
-könnt und Herald euch ab sofort wieder im Kampf unterstützen kann.
+Herald hat inzwischen einen sicheren Ort für Emer gefunden
+(Borontempel). Eldaria nimmt mit ihm Kontakt auf, geht schnell dorthin
+und sorgt dort für eine telepathische Verbindung mit denjenigen
+Personen, die Emer bewachen, damit ihr im Ernstfall so schnell wie
+möglich benachrichtigt werden könnt und Herald euch ab sofort wieder im
+Kampf unterstützen kann.
 
 Hilko gelingt es, einen magisch äußerst potenzierten Lichtzauber an der
 Fliegenden Festung zu verorten und sie so für alle (und v.a. für den
@@ -1964,21 +1975,22 @@ Rondrigan Paligan macht sich, nachdem er von der Zerstörung der Neuen
 Residenz erfahren hat, immense Sorgen um das *Auge des Morgens.* Dies
 ist nicht nur ein sehr mächtiges magisches Artefakt, das dem Reich oft
 wichtige Dienste geleistet hat, sondern auch eine der *Reichsinsignien*
-(zusammen mit *Reichsschwert*, *Reichskrone* und *Reichssiegel*), also
-der Objekte, die Ausdruck herrschaftlicher Würde und Legitimität sind.
-Der Besitz dieser Insignien ist zwar weder notwendig noch hinreichend
-dafür, um legitimer Herrscher über das Mittelreich zu sein oder als
-solcher anerkannt zu werden, aber gerade in strittigen Fällen hilft ist,
-diese Objekte vorweisen zu können. *Emer* bspw. ist nicht unumstritten,
-da sie genealogisch nicht zum Hause Gareth gehört wie ihr Mann *Brin*,
-dessen Vater *Hal* oder ihre Kinder. Als eingeheiratete Alberniern hat
-sie daher auch nur den Titel "Reichsbehüterin" angenommen. Dass sie von
-Brin alle Reichsinsignien übernehmen konnte, war sicher nicht ganz
-unwichtig dafür, dass bislang niemand die Legitimität ihrer Herrschaft
-in Frage gestellt hat. Dass sie sich vor allem als Übergangsherrscherin
-ansieht, die das Reich bis zur Regierungsfähigkeit *Rohajas* regiert,
-ist ein weiterer wichtiger Faktor, ebenso wie die hohe Verehrung, die
-Brin als Herrscher zukam und zukommt.
+(zusammen mit dem *Reichsschwert (Alveranstreu)*, *Reichskrone* und
+*Reichssiegel*), also der Objekte, die Ausdruck herrschaftlicher Würde
+und Legitimität sind. Der Besitz dieser Insignien ist zwar weder
+notwendig noch hinreichend dafür, um legitimer Herrscher über das
+Mittelreich zu sein oder als solcher anerkannt zu werden, aber gerade in
+strittigen Fällen hilft ist, diese Objekte vorweisen zu können. *Emer*
+bspw. ist nicht unumstritten, da sie genealogisch nicht zum Hause Gareth
+gehört wie ihr Mann *Brin*, dessen Vater *Hal* oder ihre Kinder. Als
+eingeheiratete Alberniern hat sie daher auch nur den Titel
+"Reichsbehüterin" angenommen. Dass sie von Brin alle Reichsinsignien
+übernehmen konnte, war sicher nicht ganz unwichtig dafür, dass bislang
+niemand die Legitimität ihrer Herrschaft in Frage gestellt hat. Dass sie
+sich vor allem als Übergangsherrscherin ansieht, die das Reich bis zur
+Regierungsfähigkeit *Rohajas* regiert, ist ein weiterer wichtiger
+Faktor, ebenso wie die hohe Verehrung, die Brin als Herrscher zukam und
+zukommt.
 
 Das Auge des Morgens kann eigentlich nur mit einem speziellen Siegelring
 betätigt werden (zumindest wenn man nicht über die Kraft von Eldaria und
@@ -2034,7 +2046,7 @@ darauf, vor der geplanten Vernichtung möglichst viele Wertsachen aus
 Gareth zu retten. Ab einem bestimmten Zeitpunkt zogen sich Galottas
 Truppen an verschiedenen Punkten zusammen und wurden dann in die Festung
 gebracht. Als die Festung ins Trudeln geriet, verließen die noch am
-Boden befindlichen Kämpfer Galottas fast alle zügig die Stadt. Ludolf
+Boden befindlichen Kämpfer Galottas fast alle zügig die Stadt. Ludalf
 ist besorgt über Plünderungen im Umland durch versprengte Truppen
 Galottas, und ebenso besorgt über Plünderungen in Gareth durch Garether
 Bürger sowie über die darauf folgende Selbstjustiz. Allgemein drohen ihm
@@ -2042,7 +2054,7 @@ zufolge Faustrecht und Anarchie, zumal es gegenwärtig keinerlei
 Ordnungstruppen mehr gibt -- die ganze Stadtgarde war in die
 Verteidigungstruppen integriert, ebenso wie die Spießbürger der Zünfte.
 Albrax will sich in den Ingerimmtempel begeben, um dort nach
-überlegenden Zwergen zu suchen, die ggf. zur Wahrung von Recht und
+überlebenden Zwergen zu suchen, die ggf. zur Wahrung von Recht und
 Ordnung rekrutiert werden können.
 
 Thorben und Roban begeben sich in den Rondratempel. Von Geweihten fehlt
